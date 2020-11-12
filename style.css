@@ -142,6 +142,7 @@ li{
                         display: none;
                     }
                     .rectangle2{
+                        width:100%;
                         text-align: center;
                      background-color:#f4f4f4;
                      display:inherit;
